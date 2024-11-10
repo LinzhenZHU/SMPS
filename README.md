@@ -1,4 +1,4 @@
-# Switch-Mode-Power-Supply-SMPS-
+# Switch-Mode-Power-Supply
 
 • Developed a model for a closed-loop forward converter and implemented with MOSFET drivers enabled by PWM.
 
